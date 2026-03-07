@@ -25,7 +25,7 @@ BUTTON_COLORS = {
 
 # === ROZMĚRY OKNA ===
 WINDOW_SIZES = {
-    "main_small": (455, 985),
+    "main_small": (455, 1005),
     "main": (1650, 980),
     "setup": (600, 950),
     "settings": (950, 760),
