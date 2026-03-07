@@ -17,6 +17,7 @@ BUTTON_COLORS = {
     "cancel": "#f44336",
     "games": "#000879",
     "dashboard": "#673AB7",
+    editor "#FF98E9",
     "quick": "#D0FF00",
     "move_to_stauto": "#FF8C00",
     "default": "#607D8B",
@@ -24,8 +25,8 @@ BUTTON_COLORS = {
 
 # === ROZMĚRY OKNA ===
 WINDOW_SIZES = {
-    "main_small": (455, 975),
-    "main": (1650, 987),
+    "main_small": (455, 985),
+    "main": (1650, 980),
     "setup": (600, 950),
     "settings": (950, 760),
     "console": (600, 400),
@@ -39,6 +40,7 @@ WINDOW_SIZES = {
     "dlc": (600, 795),
     "preview": (500, 500),
     "games": (650, 800),
+    "editor": (600, 700),
     "dashboard": (600, 700),
     "quick_actions": (400, 480),
     "update_check": (500, 685),
