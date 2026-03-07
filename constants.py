@@ -17,7 +17,7 @@ BUTTON_COLORS = {
     "cancel": "#f44336",
     "games": "#000879",
     "dashboard": "#673AB7",
-    editor "#FF98E9",
+    "editor": "#FF98E9",
     "quick": "#D0FF00",
     "move_to_stauto": "#FF8C00",
     "default": "#607D8B",
