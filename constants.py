@@ -34,7 +34,7 @@ WINDOW_SIZES = {
     "tickets": (900, 620),
     "auth": (420, 475),
     "install": (980, 720),
-    "lua_generator": (550, 935),
+    "lua_generator": (550, 955),
     "online_fix": (920, 950),
     "update": (550, 800),
     "dlc": (600, 795),
