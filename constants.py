@@ -40,7 +40,7 @@ WINDOW_SIZES = {
     "dlc": (600, 680),
     "preview": (500, 500),
     "games": (650, 800),
-    "editor": (600, 700),
+    "editor": (900, 650),
     "dashboard": (600, 700),
     "quick_actions": (400, 480),
     "update_check": (500, 685),
